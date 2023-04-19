@@ -18,6 +18,10 @@ public class App
             System.out.println("wartość zmiennej number to: "+ number);
             number++;
         }
-
+        
+       // Zadanie 2 Wypisanie liczb od 1 do 10 za pomocą pętli while
+        
+        for ( Integer i = 1; i < 11; i++){
+            System.out.println("Wypisuję liczbę: "+ i);
     }
 }
