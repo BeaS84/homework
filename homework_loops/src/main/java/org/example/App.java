@@ -30,7 +30,7 @@ public class App {
 
         //Zadanie 4: Wypisanie liczb nieparzystych od 100 do 0 za pomocą pętli for
 
-        for (Integer i = 100; i > 0; i--) { // nie moze byc tak i<0
+        for (Integer i = 99; i > 0; i--) { // nie moze byc tak i<0
             System.out.println("Wypisuję liczbę nieparzystą: " + i);
         }
 
